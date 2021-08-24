@@ -1,0 +1,18 @@
+body {
+	padding: 2vw;
+	margin: 0;
+}
+
+#rainbow {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#rainbow .block {
+	width: 2vw;
+	height: 2vw;
+	margin: 0.5vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
